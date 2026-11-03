@@ -1,26 +1,211 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8">
+<html lang="en">
+<head>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Learn Norwegian: Listen &amp; Repeat</title>
+<meta name="description" content="Listen-and-repeat Norwegian lessons for English speakers. Listen, repeat and speak out loud.">
+<meta property="og:title" content="Learn Norwegian: Listen &amp; Repeat">
+<meta property="og:description" content="Listen-and-repeat Norwegian lessons for English speakers. Listen, repeat and speak out loud.">
+<meta property="og:image" content="https://mjbahonar.github.io/voice-learning-podcast/cover.jpg">
+<link rel="icon" href="cover.jpg">
 <link rel="alternate" type="application/rss+xml" title="Learn Norwegian: Listen &amp; Repeat" href="feed.xml">
 <style>
-body{font:18px/1.6 system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem;color:#1b2a3a}
-.cover{width:200px;border-radius:12px;display:block}
-ul{list-style:none;padding:0;margin:0}
-li{display:flex;align-items:center;gap:1rem;padding:.75rem 0;border-top:1px solid #e3ddd2}
-li img{width:72px;height:72px;border-radius:8px;flex:none}
-a{color:#0b3d5c}
+  :root {
+    --navy: #0b2a4a; --navy-2: #123a63; --red: #c8323c; --cream: #f6efe2;
+    --bg: #faf6ee; --card: #ffffff; --text: #1b2a3a; --muted: #5d6b7a; --line: #e6dfd0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1722; --card: #15222f; --text: #e9eef3; --muted: #9fb0c0; --line: #25364a;
+      --cream: #e9eef3;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 17px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  a { color: var(--navy-2); }
+  @media (prefers-color-scheme: dark) { a { color: #8fc4ee; } }
+  .wrap { max-width: 56rem; margin: 0 auto; padding: 0 1.25rem; }
+
+  .hero { background: linear-gradient(135deg, var(--navy), var(--navy-2)); color: #fff; padding: 2.5rem 0 3rem; position: relative; }
+  .hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 8px; background: var(--red); }
+  .hero .wrap { display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; }
+  .hero .wrap > div { flex: 1 1 18rem; min-width: 0; }
+  .hero img { width: 220px; height: 220px; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,.35); flex: none; }
+  .hero h1 { margin: 0 0 .5rem; font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.15; }
+  .hero p { margin: 0 0 1.25rem; font-size: 1.1rem; opacity: .92; max-width: 32rem; }
+  .btns { display: flex; gap: .6rem; flex-wrap: wrap; }
+  .btn { display: inline-block; padding: .6rem 1.1rem; border-radius: 999px; border: 2px solid #fff; color: #fff; text-decoration: none; font-weight: 600; font-size: .95rem; background: transparent; cursor: pointer; font-family: inherit; }
+  .btn:hover { background: rgba(255,255,255,.14); }
+  .btn.alt { color: var(--navy-2); border-color: var(--navy-2); }
+  .btn.alt:hover { background: rgba(18,58,99,.08); }
+  @media (prefers-color-scheme: dark) { .btn.alt { color: #8fc4ee; border-color: #8fc4ee; } }
+  .btn.primary { background: var(--red); border-color: var(--red); }
+  .btn.primary:hover { background: #a82832; }
+
+  section { padding: 2.5rem 0 .5rem; }
+  h2 { margin: 0 0 1rem; font-size: 1.6rem; color: var(--navy); position: relative; padding-bottom: .5rem; }
+  h2::after { content: ""; position: absolute; left: 0; bottom: 0; width: 56px; height: 4px; background: var(--red); border-radius: 2px; }
+  @media (prefers-color-scheme: dark) { h2 { color: #fff; } }
+
+  .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: 1rem; }
+  .step { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 1rem 1.1rem; }
+  .step b { display: block; margin-bottom: .2rem; }
+  .step .n { display: inline-grid; place-items: center; width: 1.8rem; height: 1.8rem; border-radius: 50%; background: var(--red); color: #fff; font-weight: 700; font-size: .9rem; margin-bottom: .4rem; }
+  .step span.t { color: var(--muted); font-size: .95rem; }
+
+  .feedbox { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 1.1rem 1.25rem; }
+  .feedrow { display: flex; gap: .5rem; flex-wrap: wrap; margin: .6rem 0; }
+  .feedrow input { flex: 1; min-width: 12rem; padding: .6rem .8rem; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--text); font: 15px Consolas, monospace; }
+  .feedrow button { padding: .6rem 1.1rem; border: 0; border-radius: 10px; background: var(--navy); color: #fff; font-weight: 600; cursor: pointer; font-family: inherit; }
+  .feedrow button:hover { background: var(--navy-2); }
+  .hint { color: var(--muted); font-size: .93rem; margin: .3rem 0 0; }
+
+  .eps { display: grid; gap: 1rem; }
+  .ep { display: flex; gap: 1.1rem; background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 1rem; }
+  .ep img { width: 110px; height: 110px; border-radius: 12px; flex: none; }
+  .ep .body { flex: 1; min-width: 0; }
+  .ep .num { display: inline-block; font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--red); font-weight: 700; }
+  .ep h3 { margin: .1rem 0 .3rem; font-size: 1.2rem; line-height: 1.3; }
+  .ep p { margin: 0 0 .6rem; color: var(--muted); font-size: .95rem; }
+  .ep audio { width: 100%; height: 40px; }
+  .ep .dur { color: var(--muted); font-size: .85rem; }
+  @media (max-width: 560px) { .ep { flex-direction: column; } .ep img { width: 100%; height: auto; aspect-ratio: 1/1; max-width: 240px; } .hero img { width: 160px; height: 160px; } }
+
+  .about p { margin: 0 0 .8rem; }
+  .contact { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 1rem 1.25rem; }
+  .contact .tba { color: var(--muted); font-style: italic; }
+
+  footer .links { display: flex; gap: .4rem 1.5rem; justify-content: center; flex-wrap: wrap; margin-bottom: .8rem; font-size: .95rem; }
+  footer { margin-top: 3rem; padding: 1.5rem 0 2.5rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .88rem; text-align: center; }
 </style>
-</head><body>
-<img class="cover" src="cover.jpg" alt="Cover">
-<h1>Learn Norwegian: Listen &amp; Repeat</h1>
-<p>Listen-and-repeat Norwegian lessons for English speakers. Each episode explains a pattern, drills phrases at normal and slow speed, gives you silent gaps to speak, and ends with a dialogue and role play. Voices are computer generated. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</p>
-<p>Podcast feed (add this link in any podcast app): <a href="feed.xml">https://mjbahonar.github.io/voice-learning-podcast/feed.xml</a></p>
-<h2>Episodes</h2>
-<ul>
-    <li><img src="images/now1-01K.jpg" alt=""><a href="episodes/now1-01K.mp3">01K From Oslo by train</a></li>
-    <li><img src="images/now1-01A.jpg" alt=""><a href="episodes/now1-01A.mp3">01A From Rome by plane</a></li>
-    <li><img src="images/now1-01M.jpg" alt=""><a href="episodes/now1-01M.mp3">01M From Bergen by boat</a></li>
-    <li><img src="images/now1-01P.jpg" alt=""><a href="episodes/now1-01P.mp3">01P From Hamburg by car</a></li>
-</ul>
-</body></html>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <img src="cover.jpg" alt="Learn Norwegian: Listen &amp; Repeat cover">
+    <div>
+      <h1>Learn Norwegian: Listen &amp; Repeat</h1>
+      <p>Listen-and-repeat Norwegian lessons for English speakers. Listen, repeat and speak out loud.</p>
+      <div class="btns">
+        <a class="btn primary" href="#episodes">Start listening</a>
+        <a class="btn" href="#subscribe">Subscribe</a>
+        <a class="btn" href="feed.xml">RSS</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section id="how">
+    <h2>How each lesson works</h2>
+    <div class="steps">
+      <div class="step"><span class="n">1</span><b>Listen</b><span class="t">A short English explanation of the pattern you are about to practise.</span></div>
+      <div class="step"><span class="n">2</span><b>Repeat</b><span class="t">Every phrase at normal speed, then slowly, then normal again.</span></div>
+      <div class="step"><span class="n">3</span><b>Speak</b><span class="t">Silent gaps where you say the sentence yourself. Then the answer.</span></div>
+      <div class="step"><span class="n">4</span><b>Use it</b><span class="t">A full dialogue and a role play where you answer as one character.</span></div>
+    </div>
+  </section>
+
+  <section id="subscribe">
+    <h2>Subscribe</h2>
+    <div class="feedbox">
+      <p style="margin:0">Add this link to any podcast app. Your app remembers where you stopped in each episode.</p>
+      <div class="feedrow">
+        <input id="feed" type="text" readonly value="https://mjbahonar.github.io/voice-learning-podcast/feed.xml" aria-label="Podcast feed link">
+        <button id="copy" type="button">Copy link</button>
+      </div>
+      <div class="btns" style="margin:.3rem 0 .4rem">
+        <a class="btn alt" href="podcast://mjbahonar.github.io/voice-learning-podcast/feed.xml">Open in Apple Podcasts</a>
+      </div>
+      <p class="hint">In other apps (Pocket Casts, Overcast, Castbox, AntennaPod, Podcast Addict) choose “Add by URL” or “Add RSS feed” and paste the link.</p>
+    </div>
+  </section>
+
+  <section id="episodes">
+    <h2>Episodes (4)</h2>
+    <div class="eps">
+      <article class="ep">
+        <img src="images/now1-01K.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 1 &middot; <span class="dur">17 min</span></span>
+          <h3>01K From Oslo by train</h3>
+          <p>Episode 01K of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology.</p>
+          <audio controls preload="none" src="episodes/now1-01K.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-01A.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 2 &middot; <span class="dur">25 min</span></span>
+          <h3>01A From Rome by plane</h3>
+          <p>Episode 01A of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology.</p>
+          <audio controls preload="none" src="episodes/now1-01A.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-01M.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 3 &middot; <span class="dur">24 min</span></span>
+          <h3>01M From Bergen by boat</h3>
+          <p>Episode 01M of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology.</p>
+          <audio controls preload="none" src="episodes/now1-01M.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-01P.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 4 &middot; <span class="dur">23 min</span></span>
+          <h3>01P From Hamburg by car</h3>
+          <p>Episode 01P of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology.</p>
+          <audio controls preload="none" src="episodes/now1-01P.mp3"></audio>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About</h2>
+    <p>These are listening lessons for people learning Norwegian through English. You do not read anything: you listen, repeat and answer out loud.</p>
+    <p>Based on the free online course <a href="https://www.ntnu.edu/web/now/info/about" target="_blank" rel="noopener">Norsk på nett (NOW)</a> from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</p>
+    <p>Looking for grammar explanations? Visit the <a href="https://norwegianlearn.netlify.app/" target="_blank" rel="noopener">Norwegian grammar website</a>.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <div class="contact">
+      <p style="margin:0">Email: <span class="tba">To be announced</span></p>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <nav class="links" aria-label="Footer">
+      <a href="./">Home</a>
+      <a href="https://norwegianlearn.netlify.app/" target="_blank" rel="noopener">Grammar website</a>
+      <a href="https://www.ntnu.edu/web/now/info/about" target="_blank" rel="noopener">NTNU: Norsk på nett</a>
+      <a href="#contact">Contact</a>
+      <a href="feed.xml">RSS feed</a>
+    </nav>
+    <div>&copy; 2026 MJB &middot; Voices are computer generated</div>
+  </div>
+</footer>
+
+<script>
+  (function () {
+    var btn = document.getElementById('copy'), input = document.getElementById('feed');
+    btn.addEventListener('click', function () {
+      var done = function () { btn.textContent = 'Copied'; setTimeout(function () { btn.textContent = 'Copy link'; }, 1600); };
+      input.select();
+      if (navigator.clipboard) { navigator.clipboard.writeText(input.value).then(done, function () { document.execCommand('copy'); done(); }); }
+      else { document.execCommand('copy'); done(); }
+    });
+  })();
+</script>
+</body>
+</html>
