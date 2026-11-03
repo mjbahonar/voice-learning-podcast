@@ -31,9 +31,13 @@
   .hero { background: linear-gradient(135deg, var(--navy), var(--navy-2)); color: #fff; padding: 2.5rem 0 3rem; position: relative; }
   .hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 8px; background: var(--red); }
   .hero .wrap:not(.top) { display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; }
-  .hero nav.top { display: flex; justify-content: flex-end; gap: .3rem 1.5rem; flex-wrap: wrap; padding-bottom: 1.5rem; }
-  .hero nav.top a { color: #fff; text-decoration: none; font-weight: 600; font-size: .95rem; opacity: .9; padding: .2rem 0; border-bottom: 2px solid transparent; }
-  .hero nav.top a:hover { opacity: 1; border-bottom-color: var(--red); }
+  .topbar { position: sticky; top: 0; z-index: 10; background: rgba(11,42,74,.96); backdrop-filter: blur(6px); box-shadow: 0 2px 10px rgba(0,0,0,.25); }
+  .topbar .wrap { display: flex; align-items: center; justify-content: space-between; gap: .3rem 1.5rem; flex-wrap: wrap; padding-top: .55rem; padding-bottom: .55rem; }
+  .topbar a { color: #fff; text-decoration: none; font-weight: 600; font-size: .95rem; opacity: .9; padding: .2rem 0; border-bottom: 2px solid transparent; }
+  .topbar a:hover { opacity: 1; border-bottom-color: var(--red); }
+  .topbar .brand { font-weight: 800; letter-spacing: .02em; }
+  .topbar .menu { display: flex; gap: .2rem 1.4rem; flex-wrap: wrap; }
+  section[id] { scroll-margin-top: 4.5rem; }
   .hero .wrap:not(.top) > div { flex: 1 1 18rem; min-width: 0; }
   .hero img { width: 220px; height: 220px; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,.35); flex: none; }
   .hero h1 { margin: 0 0 .5rem; font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.15; }
@@ -86,13 +90,19 @@
 </head>
 <body>
 
+<nav class="topbar" aria-label="Main">
+  <div class="wrap">
+    <a class="brand" href="#">Learn Norwegian</a>
+    <span class="menu">
+      <a href="#episodes">Episodes</a>
+      <a href="#subscribe">Subscribe</a>
+      <a href="#about">About us</a>
+      <a href="#contact">Contact us</a>
+    </span>
+  </div>
+</nav>
+
 <header class="hero">
-  <nav class="top wrap" aria-label="Main">
-    <a href="#episodes">Episodes</a>
-    <a href="#subscribe">Subscribe</a>
-    <a href="#about">About us</a>
-    <a href="#contact">Contact us</a>
-  </nav>
   <div class="wrap">
     <img src="cover.jpg" alt="Learn Norwegian: Listen &amp; Repeat cover">
     <div>
