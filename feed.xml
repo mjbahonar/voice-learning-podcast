@@ -6,7 +6,7 @@
     <atom:link href="https://mjbahonar.github.io/voice-learning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Listen-and-repeat Norwegian lessons for English speakers. Each episode explains a pattern, drills phrases at normal and slow speed, gives you silent gaps to speak, and ends with a dialogue and role play. Voices are computer generated. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 14:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:17:24 +0000</lastBuildDate>
     <itunes:author>MJB</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -15,15 +15,51 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <item>
-      <title>NOW1: Introducing yourself, asking questions, family</title>
-      <description>Say your name, ask where someone is from, ask yes/no questions and talk about a third person. Listen, repeat and answer in the gaps. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
-      <guid isPermaLink="false">voice-learning-now1_01K</guid>
+      <title>01K From Oslo by train</title>
+      <description>Episode 01K of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01K</guid>
       <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1_01K.mp3" length="8018348" type="audio/mpeg"/>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01K.mp3" length="8018348" type="audio/mpeg"/>
       <itunes:duration>00:16:42</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1_01K.jpg"/>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01K.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01A From Rome by plane</title>
+      <description>Episode 01A of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01A</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01A.mp3" length="12096044" type="audio/mpeg"/>
+      <itunes:duration>00:25:11</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01A.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01M From Bergen by boat</title>
+      <description>Episode 01M of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01M</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01M.mp3" length="11746412" type="audio/mpeg"/>
+      <itunes:duration>00:24:28</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01M.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01P From Hamburg by car</title>
+      <description>Episode 01P of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01P</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01P.mp3" length="11003756" type="audio/mpeg"/>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01P.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
