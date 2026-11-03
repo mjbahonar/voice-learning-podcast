@@ -30,8 +30,11 @@
 
   .hero { background: linear-gradient(135deg, var(--navy), var(--navy-2)); color: #fff; padding: 2.5rem 0 3rem; position: relative; }
   .hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 8px; background: var(--red); }
-  .hero .wrap { display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; }
-  .hero .wrap > div { flex: 1 1 18rem; min-width: 0; }
+  .hero .wrap:not(.top) { display: flex; gap: 2rem; align-items: center; flex-wrap: wrap; }
+  .hero nav.top { display: flex; justify-content: flex-end; gap: .3rem 1.5rem; flex-wrap: wrap; padding-bottom: 1.5rem; }
+  .hero nav.top a { color: #fff; text-decoration: none; font-weight: 600; font-size: .95rem; opacity: .9; padding: .2rem 0; border-bottom: 2px solid transparent; }
+  .hero nav.top a:hover { opacity: 1; border-bottom-color: var(--red); }
+  .hero .wrap:not(.top) > div { flex: 1 1 18rem; min-width: 0; }
   .hero img { width: 220px; height: 220px; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,.35); flex: none; }
   .hero h1 { margin: 0 0 .5rem; font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.15; }
   .hero p { margin: 0 0 1.25rem; font-size: 1.1rem; opacity: .92; max-width: 32rem; }
@@ -84,6 +87,12 @@
 <body>
 
 <header class="hero">
+  <nav class="top wrap" aria-label="Main">
+    <a href="#episodes">Episodes</a>
+    <a href="#subscribe">Subscribe</a>
+    <a href="#about">About us</a>
+    <a href="#contact">Contact us</a>
+  </nav>
   <div class="wrap">
     <img src="cover.jpg" alt="Learn Norwegian: Listen &amp; Repeat cover">
     <div>
