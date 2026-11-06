@@ -6,64 +6,1303 @@
     <atom:link href="https://mjbahonar.github.io/voice-learning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Listen-and-repeat Norwegian lessons for English speakers. Each episode explains a pattern, drills phrases at normal and slow speed, gives you silent gaps to speak, and ends with a dialogue and role play. Voices are computer generated. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:09:14 +0000</lastBuildDate>
     <itunes:author>MJB</itunes:author>
     <itunes:owner>
       <itunes:name>MJB</itunes:name>
       <itunes:email>learnnorwegian@outlook.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
+    <itunes:type>serial</itunes:type>
     <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/cover.jpg"/>
     <itunes:category text="Education">
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <item>
-      <title>01K From Oslo by train</title>
-      <description>Episode 01K of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
-      <guid isPermaLink="false">voice-learning-now1-01K</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01K.mp3" length="8018348" type="audio/mpeg"/>
-      <itunes:duration>00:16:42</itunes:duration>
+      <title>01K · Vocabulary</title>
+      <description>Vocabulary for chapter 1, text K: 32 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01K-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:01:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01K-vocab.mp3" length="3904076" type="audio/mpeg"/>
+      <itunes:duration>00:13:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01K-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01K · Text: Names, where you are from</title>
+      <description>Names, where you are from, yes or no questions, family, and talking about another person. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01K</guid>
+      <pubDate>Thu, 05 Nov 2026 08:02:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01K.mp3" length="9116516" type="audio/mpeg"/>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01K.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>01A From Rome by plane</title>
-      <description>Episode 01A of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <title>01A · Vocabulary</title>
+      <description>Vocabulary for chapter 1, text A: 19 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:03:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01A-vocab.mp3" length="2828036" type="audio/mpeg"/>
+      <itunes:duration>00:09:25</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01A · Text: Where you are from, work and study</title>
+      <description>Where you are from, work and study, languages, and travelling. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
       <guid isPermaLink="false">voice-learning-now1-01A</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01A.mp3" length="12096044" type="audio/mpeg"/>
-      <itunes:duration>00:25:11</itunes:duration>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Thu, 05 Nov 2026 08:04:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01A.mp3" length="9422276" type="audio/mpeg"/>
+      <itunes:duration>00:31:24</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01A.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>01M From Bergen by boat</title>
-      <description>Episode 01M of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <title>01M · Vocabulary</title>
+      <description>Vocabulary for chapter 1, text M: 39 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01M-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:05:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01M-vocab.mp3" length="4579796" type="audio/mpeg"/>
+      <itunes:duration>00:15:15</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01M-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01M · Text: Polite questions on a boat, where we are</title>
+      <description>Polite questions on a boat, where we are, saying who you are, and greetings. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
       <guid isPermaLink="false">voice-learning-now1-01M</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01M.mp3" length="11746412" type="audio/mpeg"/>
-      <itunes:duration>00:24:28</itunes:duration>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Thu, 05 Nov 2026 08:06:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01M.mp3" length="8693876" type="audio/mpeg"/>
+      <itunes:duration>00:28:58</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01M.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>01P From Hamburg by car</title>
-      <description>Episode 01P of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <title>01P · Vocabulary</title>
+      <description>Vocabulary for chapter 1, text P: 29 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01P-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:07:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01P-vocab.mp3" length="3833636" type="audio/mpeg"/>
+      <itunes:duration>00:12:46</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01P-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01P · Text: Asking how far, we and you plural</title>
+      <description>Asking how far, we and you plural, shopping, and paying. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
       <guid isPermaLink="false">voice-learning-now1-01P</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01P.mp3" length="11003756" type="audio/mpeg"/>
-      <itunes:duration>00:22:55</itunes:duration>
-      <itunes:episode>4</itunes:episode>
+      <pubDate>Thu, 05 Nov 2026 08:08:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01P.mp3" length="8181836" type="audio/mpeg"/>
+      <itunes:duration>00:27:16</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01P.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01 · Grammar</title>
+      <description>Grammar for chapter 1: pronouns, verbs, nouns, small words, question words, word order, and nationalities. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-01Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 08:09:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-01Grammar.mp3" length="17060636" type="audio/mpeg"/>
+      <itunes:duration>00:56:52</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-01Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02K · Vocabulary</title>
+      <description>Vocabulary for chapter 2, text K: 28 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02K-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:10:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02K-vocab.mp3" length="3955676" type="audio/mpeg"/>
+      <itunes:duration>00:13:11</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02K-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02K · Text: Arriving by train, asking for help</title>
+      <description>Arriving by train, asking for help, addresses, and luggage. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02K</guid>
+      <pubDate>Thu, 05 Nov 2026 08:11:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02K.mp3" length="8704556" type="audio/mpeg"/>
+      <itunes:duration>00:29:00</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02K.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02A · Vocabulary</title>
+      <description>Vocabulary for chapter 2, text A: 28 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:12:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02A-vocab.mp3" length="3822716" type="audio/mpeg"/>
+      <itunes:duration>00:12:44</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02A · Text: Arriving by plane, asking for help</title>
+      <description>Arriving by plane, asking for help, paying, and finding your bus. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02A</guid>
+      <pubDate>Thu, 05 Nov 2026 08:13:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02A.mp3" length="9269396" type="audio/mpeg"/>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02A.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02M · Vocabulary</title>
+      <description>Vocabulary for chapter 2, text M: 22 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02M-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:14:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02M-vocab.mp3" length="3223316" type="audio/mpeg"/>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02M-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02M · Text: Telling the time, changing buses</title>
+      <description>Telling the time, changing buses, prices and transfers, and finding the reception. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02M</guid>
+      <pubDate>Thu, 05 Nov 2026 08:15:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02M.mp3" length="9788396" type="audio/mpeg"/>
+      <itunes:duration>00:32:37</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02M.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02P · Vocabulary</title>
+      <description>Vocabulary for chapter 2, text P: 29 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02P-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:16:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02P-vocab.mp3" length="3834956" type="audio/mpeg"/>
+      <itunes:duration>00:12:46</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02P-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02P · Text: Telling the time, finding a place on the map</title>
+      <description>Telling the time, finding a place on the map, suggestions, and asking for directions. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02P</guid>
+      <pubDate>Thu, 05 Nov 2026 08:17:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02P.mp3" length="10146476" type="audio/mpeg"/>
+      <itunes:duration>00:33:49</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02P.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02D · Vocabulary</title>
+      <description>Vocabulary for chapter 2, text D: 34 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02D-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:18:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02D-vocab.mp3" length="4714196" type="audio/mpeg"/>
+      <itunes:duration>00:15:42</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02D-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02D · Text: Introducing a colleague, lunch in the canteen</title>
+      <description>Introducing a colleague, lunch in the canteen, prices, and paying with Vipps. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02D</guid>
+      <pubDate>Thu, 05 Nov 2026 08:19:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02D.mp3" length="12156596" type="audio/mpeg"/>
+      <itunes:duration>00:40:31</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02D.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02 · Grammar</title>
+      <description>Grammar for chapter 2: object pronouns, helping verbs, commands, definite nouns, plurals, which, and word order. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-02Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 08:20:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-02Grammar.mp3" length="13154996" type="audio/mpeg"/>
+      <itunes:duration>00:43:50</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-02Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03K · Vocabulary</title>
+      <description>Vocabulary for chapter 3, text K: 36 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03K-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:21:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03K-vocab.mp3" length="4903316" type="audio/mpeg"/>
+      <itunes:duration>00:16:20</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03K-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03K · Text: At the reception</title>
+      <description>At the reception: getting the key to your room. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03K</guid>
+      <pubDate>Thu, 05 Nov 2026 08:22:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03K.mp3" length="7545476" type="audio/mpeg"/>
+      <itunes:duration>00:25:08</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03K.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03A · Vocabulary</title>
+      <description>Vocabulary for chapter 3, text A: 28 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:23:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03A-vocab.mp3" length="3851636" type="audio/mpeg"/>
+      <itunes:duration>00:12:50</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03A · Text: The bed-sitter</title>
+      <description>The bed-sitter: describing a room. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03A</guid>
+      <pubDate>Thu, 05 Nov 2026 08:24:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03A.mp3" length="6771476" type="audio/mpeg"/>
+      <itunes:duration>00:22:34</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03A.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03M · Vocabulary</title>
+      <description>Vocabulary for chapter 3, text M: 21 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03M-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:25:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03M-vocab.mp3" length="3249716" type="audio/mpeg"/>
+      <itunes:duration>00:10:49</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03M-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03M · Text: First meeting with Anna</title>
+      <description>First meeting with Anna: neighbours, music, siblings, and tea. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03M</guid>
+      <pubDate>Thu, 05 Nov 2026 08:26:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03M.mp3" length="8515556" type="audio/mpeg"/>
+      <itunes:duration>00:28:23</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03M.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03P · Vocabulary</title>
+      <description>Vocabulary for chapter 3, text P: 36 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03P-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:27:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03P-vocab.mp3" length="5018156" type="audio/mpeg"/>
+      <itunes:duration>00:16:43</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03P-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03P · Text: Breakfast with Frank</title>
+      <description>Breakfast with Frank: morning routine, hunger, and food. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03P</guid>
+      <pubDate>Thu, 05 Nov 2026 08:28:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03P.mp3" length="8824556" type="audio/mpeg"/>
+      <itunes:duration>00:29:24</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03P.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03Y · Vocabulary</title>
+      <description>Vocabulary for chapter 3, text Y: 28 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03Y-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:29:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03Y-vocab.mp3" length="4023836" type="audio/mpeg"/>
+      <itunes:duration>00:13:24</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03Y-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03Y · Text: Yuhang in Ålesund</title>
+      <description>Yuhang in Ålesund: studies, feelings, and an invitation. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03Y</guid>
+      <pubDate>Thu, 05 Nov 2026 08:30:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03Y.mp3" length="8991356" type="audio/mpeg"/>
+      <itunes:duration>00:29:58</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03Y.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03 · Grammar</title>
+      <description>Grammar for chapter 3: it, reflexive verbs, owners, special plurals, adjectives, here and there, and in and on. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-03Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 08:31:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-03Grammar.mp3" length="17626676" type="audio/mpeg"/>
+      <itunes:duration>00:58:45</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-03Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04K · Vocabulary</title>
+      <description>Vocabulary for chapter 4, text K: 35 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04K-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:32:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04K-vocab.mp3" length="4767956" type="audio/mpeg"/>
+      <itunes:duration>00:15:53</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04K-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04K · Text 1/2: Ken at the Moholt centre</title>
+      <description>Ken at the Moholt centre: money, post office, and groceries. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04K1</guid>
+      <pubDate>Thu, 05 Nov 2026 08:33:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04K1.mp3" length="6649196" type="audio/mpeg"/>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04K1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04K · Text 2/2: Ken at the Moholt centre</title>
+      <description>Ken at the Moholt centre: money, post office, and groceries. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04K2</guid>
+      <pubDate>Thu, 05 Nov 2026 08:34:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04K2.mp3" length="5119916" type="audio/mpeg"/>
+      <itunes:duration>00:17:03</itunes:duration>
+      <itunes:episode>34</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04K2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04A · Vocabulary</title>
+      <description>Vocabulary for chapter 4, text A: 26 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:35:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04A-vocab.mp3" length="3659276" type="audio/mpeg"/>
+      <itunes:duration>00:12:11</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04A · Text: Anna at Solsiden</title>
+      <description>Anna at Solsiden: buying clothes. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04A</guid>
+      <pubDate>Thu, 05 Nov 2026 08:36:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04A.mp3" length="8946356" type="audio/mpeg"/>
+      <itunes:duration>00:29:49</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04A.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04M · Vocabulary</title>
+      <description>Vocabulary for chapter 4, text M: 44 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04M-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:37:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04M-vocab.mp3" length="5745476" type="audio/mpeg"/>
+      <itunes:duration>00:19:08</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04M-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04M · Text 1/2: Maria's shopping trip</title>
+      <description>Maria's shopping trip: interior shop, bookshop, and bakery. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04M1</guid>
+      <pubDate>Thu, 05 Nov 2026 08:38:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04M1.mp3" length="7206236" type="audio/mpeg"/>
+      <itunes:duration>00:24:01</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04M1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04M · Text 2/2: Maria's shopping trip</title>
+      <description>Maria's shopping trip: interior shop, bookshop, and bakery. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04M2</guid>
+      <pubDate>Thu, 05 Nov 2026 08:39:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04M2.mp3" length="5582636" type="audio/mpeg"/>
+      <itunes:duration>00:18:36</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04M2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04P · Vocabulary</title>
+      <description>Vocabulary for chapter 4, text P: 20 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04P-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:40:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04P-vocab.mp3" length="3392156" type="audio/mpeg"/>
+      <itunes:duration>00:11:18</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04P-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04P · Text: Peter at the police station</title>
+      <description>Peter at the police station: registering as a foreigner. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04P</guid>
+      <pubDate>Thu, 05 Nov 2026 08:41:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04P.mp3" length="8894396" type="audio/mpeg"/>
+      <itunes:duration>00:29:38</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04P.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04D · Vocabulary</title>
+      <description>Vocabulary for chapter 4, text D: 30 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04D-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:42:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04D-vocab.mp3" length="4369436" type="audio/mpeg"/>
+      <itunes:duration>00:14:33</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04D-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04D · Text: Desta goes shopping</title>
+      <description>Desta goes shopping: food for a dinner with guests. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04D</guid>
+      <pubDate>Thu, 05 Nov 2026 08:43:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04D.mp3" length="9264956" type="audio/mpeg"/>
+      <itunes:duration>00:30:52</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04D.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04 · Grammar</title>
+      <description>Grammar for chapter 4: this and that, infinitive with å, dropped verbs, adjective patterns, and liten and annen. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-04Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 08:44:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-04Grammar.mp3" length="14282036" type="audio/mpeg"/>
+      <itunes:duration>00:47:36</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-04Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05K · Vocabulary</title>
+      <description>Vocabulary for chapter 5, text K: 19 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05K-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:45:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05K-vocab.mp3" length="2752796" type="audio/mpeg"/>
+      <itunes:duration>00:09:10</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05K-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05K · Text: An old man</title>
+      <description>An old man: a shopping trip in the past tense, and a friendly stranger. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05K</guid>
+      <pubDate>Thu, 05 Nov 2026 08:46:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05K.mp3" length="6591476" type="audio/mpeg"/>
+      <itunes:duration>00:21:58</itunes:duration>
+      <itunes:episode>46</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05K.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05A · Vocabulary</title>
+      <description>Vocabulary for chapter 5, text A: 19 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:47:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05A-vocab.mp3" length="2835956" type="audio/mpeg"/>
+      <itunes:duration>00:09:27</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05A · Text: Tourist in Trondheim</title>
+      <description>Tourist in Trondheim: sights, directions, and helping tourists, in the past tense. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05A</guid>
+      <pubDate>Thu, 05 Nov 2026 08:48:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05A.mp3" length="6542756" type="audio/mpeg"/>
+      <itunes:duration>00:21:48</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05A.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05M · Vocabulary</title>
+      <description>Vocabulary for chapter 5, text M: 45 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05M-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:49:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05M-vocab.mp3" length="5655476" type="audio/mpeg"/>
+      <itunes:duration>00:18:50</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05M-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05M · Text: E-mail home</title>
+      <description>E-mail home: a cafe in Bakklandet, Norwegians, and lost bicycle lock. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05M</guid>
+      <pubDate>Thu, 05 Nov 2026 08:50:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05M.mp3" length="8744756" type="audio/mpeg"/>
+      <itunes:duration>00:29:08</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05M.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05P · Vocabulary</title>
+      <description>Vocabulary for chapter 5, text P: 25 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05P-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:51:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05P-vocab.mp3" length="3474236" type="audio/mpeg"/>
+      <itunes:duration>00:11:34</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05P-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05P · Text: Nidarosdomen cathedral</title>
+      <description>Nidarosdomen cathedral: history, years, and a day with Frank. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05P</guid>
+      <pubDate>Thu, 05 Nov 2026 08:52:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05P.mp3" length="9372596" type="audio/mpeg"/>
+      <itunes:duration>00:31:14</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05P.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05Y · Vocabulary</title>
+      <description>Vocabulary for chapter 5, text Y: 38 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05Y-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:53:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05Y-vocab.mp3" length="4911236" type="audio/mpeg"/>
+      <itunes:duration>00:16:22</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05Y-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05Y · Text: Essay</title>
+      <description>Essay: last weekend, in the past tense. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05Y</guid>
+      <pubDate>Thu, 05 Nov 2026 08:54:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05Y.mp3" length="9359876" type="audio/mpeg"/>
+      <itunes:duration>00:31:11</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05Y.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05 · Grammar</title>
+      <description>Grammar for chapter 5: the past tense, adjectives ending in el and en, looks like, time expressions, and many, some and much. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-05Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 08:55:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-05Grammar.mp3" length="16964756" type="audio/mpeg"/>
+      <itunes:duration>00:56:32</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-05Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06K · Vocabulary</title>
+      <description>Vocabulary for chapter 6, text K: 25 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06K-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:56:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06K-vocab.mp3" length="3629636" type="audio/mpeg"/>
+      <itunes:duration>00:12:05</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06K-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06K · Text: Starting at Dragvoll</title>
+      <description>Starting at Dragvoll: the present perfect, campus, and the student ID card. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06K</guid>
+      <pubDate>Thu, 05 Nov 2026 08:57:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06K.mp3" length="9048356" type="audio/mpeg"/>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06K.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06A · Vocabulary</title>
+      <description>Vocabulary for chapter 6, text A: 20 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 08:58:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06A-vocab.mp3" length="3109316" type="audio/mpeg"/>
+      <itunes:duration>00:10:21</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06A · Text: Home from Gløshaugen</title>
+      <description>Home from Gløshaugen: what have you done today? Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06A</guid>
+      <pubDate>Thu, 05 Nov 2026 08:59:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06A.mp3" length="8666636" type="audio/mpeg"/>
+      <itunes:duration>00:28:53</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06A.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06M · Vocabulary</title>
+      <description>Vocabulary for chapter 6, text M: 26 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06M-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06M-vocab.mp3" length="3917156" type="audio/mpeg"/>
+      <itunes:duration>00:13:03</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06M-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06M · Text 1/2: The sports centre</title>
+      <description>The sports centre: hobbies, membership cards, and the student society. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06M1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:01:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06M1.mp3" length="7302836" type="audio/mpeg"/>
+      <itunes:duration>00:24:20</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06M1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06M · Text 2/2: The sports centre</title>
+      <description>The sports centre: hobbies, membership cards, and the student society. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06M2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:02:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06M2.mp3" length="5289476" type="audio/mpeg"/>
+      <itunes:duration>00:17:37</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06M2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06P · Vocabulary</title>
+      <description>Vocabulary for chapter 6, text P: 29 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06P-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:03:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06P-vocab.mp3" length="3873836" type="audio/mpeg"/>
+      <itunes:duration>00:12:54</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06P-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06P · Text: Norwegian class</title>
+      <description>Norwegian class: how long, where from, and making friends. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06P</guid>
+      <pubDate>Thu, 05 Nov 2026 09:04:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06P.mp3" length="9381836" type="audio/mpeg"/>
+      <itunes:duration>00:31:16</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06P.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06 · Grammar</title>
+      <description>Grammar for chapter 6: the present perfect, irregular verbs, auxiliary verbs, the big car, and word order in main and subordinate clauses. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-06Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 09:05:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-06Grammar.mp3" length="20552636" type="audio/mpeg"/>
+      <itunes:duration>01:08:30</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-06Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07A · Vocabulary</title>
+      <description>Vocabulary for chapter 7, text A: 51 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:06:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07A-vocab.mp3" length="6511556" type="audio/mpeg"/>
+      <itunes:duration>00:21:42</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07A · Text 1/2: Family</title>
+      <description>Family: talking about relatives in a group. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07A1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:07:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07A1.mp3" length="7133156" type="audio/mpeg"/>
+      <itunes:duration>00:23:46</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07A1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07A · Text 2/2: Family</title>
+      <description>Family: talking about relatives in a group. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07A2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:08:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07A2.mp3" length="5747036" type="audio/mpeg"/>
+      <itunes:duration>00:19:09</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07A2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07B · Vocabulary</title>
+      <description>Vocabulary for chapter 7, text B: 48 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07B-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:09:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07B-vocab.mp3" length="6066236" type="audio/mpeg"/>
+      <itunes:duration>00:20:13</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07B-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07B · Text 1/2: Spare time</title>
+      <description>Spare time: hobbies, sports, and free time. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07B1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:10:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07B1.mp3" length="7526036" type="audio/mpeg"/>
+      <itunes:duration>00:25:05</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07B1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07B · Text 2/2: Spare time</title>
+      <description>Spare time: hobbies, sports, and free time. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07B2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:11:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07B2.mp3" length="8082716" type="audio/mpeg"/>
+      <itunes:duration>00:26:56</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07B2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07D · Vocabulary</title>
+      <description>Vocabulary for chapter 7, text D: 29 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07D-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:12:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07D-vocab.mp3" length="4069796" type="audio/mpeg"/>
+      <itunes:duration>00:13:33</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07D-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07D · Text 1/2: Lunch break</title>
+      <description>Lunch break: family, in-laws, and Easter plans. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07D1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:13:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07D1.mp3" length="5375996" type="audio/mpeg"/>
+      <itunes:duration>00:17:55</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07D1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07D · Text 2/2: Lunch break</title>
+      <description>Lunch break: family, in-laws, and Easter plans. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07D2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:14:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07D2.mp3" length="8304476" type="audio/mpeg"/>
+      <itunes:duration>00:27:40</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07D2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07 · Grammar</title>
+      <description>Grammar for chapter 7: possessives, the word som, and the two words for when. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-07Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 09:15:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-07Grammar.mp3" length="10230716" type="audio/mpeg"/>
+      <itunes:duration>00:34:06</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-07Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08A · Vocabulary</title>
+      <description>Vocabulary for chapter 8, text A: 60 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:16:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08A-vocab.mp3" length="7071596" type="audio/mpeg"/>
+      <itunes:duration>00:23:34</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08A · Text 1/2: Trip to Oppdal</title>
+      <description>Trip to Oppdal: weather, comparing, and a cabin. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08A1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:17:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08A1.mp3" length="7378796" type="audio/mpeg"/>
+      <itunes:duration>00:24:35</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08A1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08A · Text 2/2: Trip to Oppdal</title>
+      <description>Trip to Oppdal: weather, comparing, and a cabin. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08A2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:18:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08A2.mp3" length="6783716" type="audio/mpeg"/>
+      <itunes:duration>00:22:36</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08A2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08B · Vocabulary</title>
+      <description>Vocabulary for chapter 8, text B: 46 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08B-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:19:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08B-vocab.mp3" length="5977676" type="audio/mpeg"/>
+      <itunes:duration>00:19:55</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08B-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08B · Text 1/2: Peter is ill</title>
+      <description>Peter is ill: symptoms, calling the out-of-hours doctor, and medicine. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08B1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:20:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08B1.mp3" length="7408316" type="audio/mpeg"/>
+      <itunes:duration>00:24:41</itunes:duration>
+      <itunes:episode>80</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08B1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08B · Text 2/2: Peter is ill</title>
+      <description>Peter is ill: symptoms, calling the out-of-hours doctor, and medicine. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08B2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:21:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08B2.mp3" length="6458756" type="audio/mpeg"/>
+      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08B2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08Y · Vocabulary</title>
+      <description>Vocabulary for chapter 8, text Y: 50 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08Y-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:22:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08Y-vocab.mp3" length="6248756" type="audio/mpeg"/>
+      <itunes:duration>00:20:49</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08Y-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08Y · Text 1/2: Cabin trip</title>
+      <description>Cabin trip: packing, seasons, and ice fishing. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08Y1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:23:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08Y1.mp3" length="8573996" type="audio/mpeg"/>
+      <itunes:duration>00:28:34</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08Y1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08Y · Text 2/2: Cabin trip</title>
+      <description>Cabin trip: packing, seasons, and ice fishing. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08Y2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:24:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08Y2.mp3" length="6909236" type="audio/mpeg"/>
+      <itunes:duration>00:23:01</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08Y2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08 · Grammar</title>
+      <description>Grammar for chapter 8: the reflexive possessive sin, comparing adjectives, and time prepositions. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-08Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 09:25:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-08Grammar.mp3" length="18176156" type="audio/mpeg"/>
+      <itunes:duration>01:00:35</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-08Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09A · Vocabulary</title>
+      <description>Vocabulary for chapter 9, text A: 34 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-09A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:26:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-09A-vocab.mp3" length="4518716" type="audio/mpeg"/>
+      <itunes:duration>00:15:03</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-09A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09A · Text 1/2: The office</title>
+      <description>The office: a busy day, a birthday cake, and an e-mail to a supervisor. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-09A1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:27:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-09A1.mp3" length="5975396" type="audio/mpeg"/>
+      <itunes:duration>00:19:54</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-09A1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09A · Text 2/2: The office</title>
+      <description>The office: a busy day, a birthday cake, and an e-mail to a supervisor. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-09A2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:28:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-09A2.mp3" length="6371516" type="audio/mpeg"/>
+      <itunes:duration>00:21:14</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-09A2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09B · Vocabulary</title>
+      <description>Vocabulary for chapter 9, text B: 42 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-09B-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:29:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-09B-vocab.mp3" length="5552756" type="audio/mpeg"/>
+      <itunes:duration>00:18:30</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-09B-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09B · Text 1/2: Conference</title>
+      <description>Conference: preparing a talk, travelling to London, and the hotel. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-09B1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:30:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-09B1.mp3" length="5922596" type="audio/mpeg"/>
+      <itunes:duration>00:19:44</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-09B1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09B · Text 2/2: Conference</title>
+      <description>Conference: preparing a talk, travelling to London, and the hotel. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-09B2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:31:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-09B2.mp3" length="8742476" type="audio/mpeg"/>
+      <itunes:duration>00:29:08</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-09B2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09 · Grammar</title>
+      <description>Grammar for chapter 9: word order in main and subordinate clauses, because versus therefore, and short answers. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-09Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 09:32:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-09Grammar.mp3" length="15701036" type="audio/mpeg"/>
+      <itunes:duration>00:52:20</itunes:duration>
+      <itunes:episode>92</itunes:episode>
+      <itunes:season>9</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-09Grammar.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10A · Vocabulary</title>
+      <description>Vocabulary for chapter 10, text A: 50 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-10A-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:33:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-10A-vocab.mp3" length="6211556" type="audio/mpeg"/>
+      <itunes:duration>00:20:42</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-10A-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10A · Text 1/2: A trip to Oslo</title>
+      <description>A trip to Oslo: sights, a theatre, and museums. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-10A1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:34:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-10A1.mp3" length="8633756" type="audio/mpeg"/>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-10A1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10A · Text 2/2: A trip to Oslo</title>
+      <description>A trip to Oslo: sights, a theatre, and museums. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-10A2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:35:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-10A2.mp3" length="6409436" type="audio/mpeg"/>
+      <itunes:duration>00:21:21</itunes:duration>
+      <itunes:episode>95</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-10A2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10B · Vocabulary</title>
+      <description>Vocabulary for chapter 10, text B: 56 words. Listen and repeat them before you start the text lesson. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-10B-vocab</guid>
+      <pubDate>Thu, 05 Nov 2026 09:36:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-10B-vocab.mp3" length="7078076" type="audio/mpeg"/>
+      <itunes:duration>00:23:35</itunes:duration>
+      <itunes:episode>96</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-10B-vocab.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10B · Text 1/2: Christmas in Norway</title>
+      <description>Christmas in Norway: church, dinner, traditions, and a phone call home. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-10B1</guid>
+      <pubDate>Thu, 05 Nov 2026 09:37:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-10B1.mp3" length="7682516" type="audio/mpeg"/>
+      <itunes:duration>00:25:36</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-10B1.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10B · Text 2/2: Christmas in Norway</title>
+      <description>Christmas in Norway: church, dinner, traditions, and a phone call home. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-10B2</guid>
+      <pubDate>Thu, 05 Nov 2026 09:38:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-10B2.mp3" length="8806796" type="audio/mpeg"/>
+      <itunes:duration>00:29:21</itunes:duration>
+      <itunes:episode>98</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-10B2.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10 · Grammar</title>
+      <description>Grammar for chapter 10: the four meanings of så, prepositions of place, and comma rules. Listen and repeat the examples out loud. Based on the free online course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology. Audio and exercises are my own study material; this podcast is not affiliated with or endorsed by NTNU.</description>
+      <guid isPermaLink="false">voice-learning-now1-10Grammar</guid>
+      <pubDate>Thu, 05 Nov 2026 09:39:00 +0000</pubDate>
+      <enclosure url="https://mjbahonar.github.io/voice-learning-podcast/episodes/now1-10Grammar.mp3" length="14784356" type="audio/mpeg"/>
+      <itunes:duration>00:49:16</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:season>10</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mjbahonar.github.io/voice-learning-podcast/images/now1-10Grammar.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

@@ -69,7 +69,15 @@
   .feedrow button:hover { background: var(--navy-2); }
   .hint { color: var(--muted); font-size: .93rem; margin: .3rem 0 0; }
 
-  .eps { display: grid; gap: 1rem; }
+  .eps { display: grid; gap: 1rem; padding: .25rem 0 1.25rem; }
+  .chapters { display: grid; gap: .8rem; }
+  .chapter { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 0 1rem; }
+  .chapter > summary { cursor: pointer; padding: 1rem 0; font-size: 1.15rem; font-weight: 700; list-style: none; display: flex; justify-content: space-between; gap: 1rem; align-items: center; }
+  .chapter > summary::-webkit-details-marker { display: none; }
+  .chapter > summary::after { content: "+"; font-size: 1.5rem; color: var(--red); line-height: 1; }
+  .chapter[open] > summary::after { content: "−"; }
+  .chapter > summary span { color: var(--muted); font-weight: 400; font-size: .9rem; margin-inline-start: auto; }
+  .chapter .ep { box-shadow: none; }
   .ep { display: flex; gap: 1.1rem; background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 1rem; }
   .ep img { width: 110px; height: 110px; border-radius: 12px; flex: none; }
   .ep .body { flex: 1; min-width: 0; }
@@ -145,44 +153,949 @@
   </section>
 
   <section id="episodes">
-    <h2>Episodes (4)</h2>
-    <div class="eps">
+    <h2>Episodes (99)</h2>
+    <div class="chapters">
+      <details class="chapter" open>
+        <summary>Chapter 1 <span>(9 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-01K-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 1 &middot; <span class="dur">13 min</span></span>
+          <h3>01K · Vocabulary</h3>
+          <p>Vocabulary for chapter 1, text K: 32 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-01K-vocab.mp3"></audio>
+        </div>
+      </article>
       <article class="ep">
         <img src="images/now1-01K.jpg" alt="" loading="lazy">
         <div class="body">
-          <span class="num">Episode 1 &middot; <span class="dur">17 min</span></span>
-          <h3>01K From Oslo by train</h3>
-          <p>Episode 01K of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology.</p>
+          <span class="num">Episode 2 &middot; <span class="dur">30 min</span></span>
+          <h3>01K · Text: Names, where you are from</h3>
+          <p>Names, where you are from, yes or no questions, family, and talking about another person. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
           <audio controls preload="none" src="episodes/now1-01K.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-01A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 3 &middot; <span class="dur">9 min</span></span>
+          <h3>01A · Vocabulary</h3>
+          <p>Vocabulary for chapter 1, text A: 19 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-01A-vocab.mp3"></audio>
         </div>
       </article>
       <article class="ep">
         <img src="images/now1-01A.jpg" alt="" loading="lazy">
         <div class="body">
-          <span class="num">Episode 2 &middot; <span class="dur">25 min</span></span>
-          <h3>01A From Rome by plane</h3>
-          <p>Episode 01A of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology.</p>
+          <span class="num">Episode 4 &middot; <span class="dur">31 min</span></span>
+          <h3>01A · Text: Where you are from, work and study</h3>
+          <p>Where you are from, work and study, languages, and travelling. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
           <audio controls preload="none" src="episodes/now1-01A.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-01M-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 5 &middot; <span class="dur">15 min</span></span>
+          <h3>01M · Vocabulary</h3>
+          <p>Vocabulary for chapter 1, text M: 39 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-01M-vocab.mp3"></audio>
         </div>
       </article>
       <article class="ep">
         <img src="images/now1-01M.jpg" alt="" loading="lazy">
         <div class="body">
-          <span class="num">Episode 3 &middot; <span class="dur">24 min</span></span>
-          <h3>01M From Bergen by boat</h3>
-          <p>Episode 01M of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology.</p>
+          <span class="num">Episode 6 &middot; <span class="dur">29 min</span></span>
+          <h3>01M · Text: Polite questions on a boat, where we are</h3>
+          <p>Polite questions on a boat, where we are, saying who you are, and greetings. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
           <audio controls preload="none" src="episodes/now1-01M.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-01P-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 7 &middot; <span class="dur">13 min</span></span>
+          <h3>01P · Vocabulary</h3>
+          <p>Vocabulary for chapter 1, text P: 29 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-01P-vocab.mp3"></audio>
         </div>
       </article>
       <article class="ep">
         <img src="images/now1-01P.jpg" alt="" loading="lazy">
         <div class="body">
-          <span class="num">Episode 4 &middot; <span class="dur">23 min</span></span>
-          <h3>01P From Hamburg by car</h3>
-          <p>Episode 01P of the Norwegian course Norsk på nett (NOW) from NTNU, the Norwegian University of Science and Technology.</p>
+          <span class="num">Episode 8 &middot; <span class="dur">27 min</span></span>
+          <h3>01P · Text: Asking how far, we and you plural</h3>
+          <p>Asking how far, we and you plural, shopping, and paying. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
           <audio controls preload="none" src="episodes/now1-01P.mp3"></audio>
         </div>
       </article>
+      <article class="ep">
+        <img src="images/now1-01Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 9 &middot; <span class="dur">57 min</span></span>
+          <h3>01 · Grammar</h3>
+          <p>Grammar for chapter 1: pronouns, verbs, nouns, small words, question words, word order, and nationalities. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-01Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 2 <span>(11 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-02K-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 10 &middot; <span class="dur">13 min</span></span>
+          <h3>02K · Vocabulary</h3>
+          <p>Vocabulary for chapter 2, text K: 28 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-02K-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02K.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 11 &middot; <span class="dur">29 min</span></span>
+          <h3>02K · Text: Arriving by train, asking for help</h3>
+          <p>Arriving by train, asking for help, addresses, and luggage. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-02K.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 12 &middot; <span class="dur">13 min</span></span>
+          <h3>02A · Vocabulary</h3>
+          <p>Vocabulary for chapter 2, text A: 28 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-02A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02A.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 13 &middot; <span class="dur">31 min</span></span>
+          <h3>02A · Text: Arriving by plane, asking for help</h3>
+          <p>Arriving by plane, asking for help, paying, and finding your bus. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-02A.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02M-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 14 &middot; <span class="dur">11 min</span></span>
+          <h3>02M · Vocabulary</h3>
+          <p>Vocabulary for chapter 2, text M: 22 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-02M-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02M.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 15 &middot; <span class="dur">33 min</span></span>
+          <h3>02M · Text: Telling the time, changing buses</h3>
+          <p>Telling the time, changing buses, prices and transfers, and finding the reception. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-02M.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02P-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 16 &middot; <span class="dur">13 min</span></span>
+          <h3>02P · Vocabulary</h3>
+          <p>Vocabulary for chapter 2, text P: 29 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-02P-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02P.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 17 &middot; <span class="dur">34 min</span></span>
+          <h3>02P · Text: Telling the time, finding a place on the map</h3>
+          <p>Telling the time, finding a place on the map, suggestions, and asking for directions. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-02P.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02D-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 18 &middot; <span class="dur">16 min</span></span>
+          <h3>02D · Vocabulary</h3>
+          <p>Vocabulary for chapter 2, text D: 34 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-02D-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02D.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 19 &middot; <span class="dur">41 min</span></span>
+          <h3>02D · Text: Introducing a colleague, lunch in the canteen</h3>
+          <p>Introducing a colleague, lunch in the canteen, prices, and paying with Vipps. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-02D.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-02Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 20 &middot; <span class="dur">44 min</span></span>
+          <h3>02 · Grammar</h3>
+          <p>Grammar for chapter 2: object pronouns, helping verbs, commands, definite nouns, plurals, which, and word order. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-02Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 3 <span>(11 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-03K-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 21 &middot; <span class="dur">16 min</span></span>
+          <h3>03K · Vocabulary</h3>
+          <p>Vocabulary for chapter 3, text K: 36 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-03K-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03K.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 22 &middot; <span class="dur">25 min</span></span>
+          <h3>03K · Text: At the reception</h3>
+          <p>At the reception: getting the key to your room. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-03K.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 23 &middot; <span class="dur">13 min</span></span>
+          <h3>03A · Vocabulary</h3>
+          <p>Vocabulary for chapter 3, text A: 28 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-03A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03A.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 24 &middot; <span class="dur">23 min</span></span>
+          <h3>03A · Text: The bed-sitter</h3>
+          <p>The bed-sitter: describing a room. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-03A.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03M-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 25 &middot; <span class="dur">11 min</span></span>
+          <h3>03M · Vocabulary</h3>
+          <p>Vocabulary for chapter 3, text M: 21 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-03M-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03M.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 26 &middot; <span class="dur">28 min</span></span>
+          <h3>03M · Text: First meeting with Anna</h3>
+          <p>First meeting with Anna: neighbours, music, siblings, and tea. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-03M.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03P-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 27 &middot; <span class="dur">17 min</span></span>
+          <h3>03P · Vocabulary</h3>
+          <p>Vocabulary for chapter 3, text P: 36 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-03P-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03P.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 28 &middot; <span class="dur">29 min</span></span>
+          <h3>03P · Text: Breakfast with Frank</h3>
+          <p>Breakfast with Frank: morning routine, hunger, and food. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-03P.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03Y-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 29 &middot; <span class="dur">13 min</span></span>
+          <h3>03Y · Vocabulary</h3>
+          <p>Vocabulary for chapter 3, text Y: 28 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-03Y-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03Y.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 30 &middot; <span class="dur">30 min</span></span>
+          <h3>03Y · Text: Yuhang in Ålesund</h3>
+          <p>Yuhang in Ålesund: studies, feelings, and an invitation. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-03Y.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-03Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 31 &middot; <span class="dur">59 min</span></span>
+          <h3>03 · Grammar</h3>
+          <p>Grammar for chapter 3: it, reflexive verbs, owners, special plurals, adjectives, here and there, and in and on. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-03Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 4 <span>(13 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-04K-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 32 &middot; <span class="dur">16 min</span></span>
+          <h3>04K · Vocabulary</h3>
+          <p>Vocabulary for chapter 4, text K: 35 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-04K-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04K1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 33 &middot; <span class="dur">22 min</span></span>
+          <h3>04K · Text 1/2: Ken at the Moholt centre</h3>
+          <p>Ken at the Moholt centre: money, post office, and groceries. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-04K1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04K2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 34 &middot; <span class="dur">17 min</span></span>
+          <h3>04K · Text 2/2: Ken at the Moholt centre</h3>
+          <p>Ken at the Moholt centre: money, post office, and groceries. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-04K2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 35 &middot; <span class="dur">12 min</span></span>
+          <h3>04A · Vocabulary</h3>
+          <p>Vocabulary for chapter 4, text A: 26 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-04A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04A.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 36 &middot; <span class="dur">30 min</span></span>
+          <h3>04A · Text: Anna at Solsiden</h3>
+          <p>Anna at Solsiden: buying clothes. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-04A.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04M-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 37 &middot; <span class="dur">19 min</span></span>
+          <h3>04M · Vocabulary</h3>
+          <p>Vocabulary for chapter 4, text M: 44 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-04M-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04M1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 38 &middot; <span class="dur">24 min</span></span>
+          <h3>04M · Text 1/2: Maria's shopping trip</h3>
+          <p>Maria's shopping trip: interior shop, bookshop, and bakery. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-04M1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04M2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 39 &middot; <span class="dur">19 min</span></span>
+          <h3>04M · Text 2/2: Maria's shopping trip</h3>
+          <p>Maria's shopping trip: interior shop, bookshop, and bakery. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-04M2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04P-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 40 &middot; <span class="dur">11 min</span></span>
+          <h3>04P · Vocabulary</h3>
+          <p>Vocabulary for chapter 4, text P: 20 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-04P-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04P.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 41 &middot; <span class="dur">30 min</span></span>
+          <h3>04P · Text: Peter at the police station</h3>
+          <p>Peter at the police station: registering as a foreigner. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-04P.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04D-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 42 &middot; <span class="dur">15 min</span></span>
+          <h3>04D · Vocabulary</h3>
+          <p>Vocabulary for chapter 4, text D: 30 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-04D-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04D.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 43 &middot; <span class="dur">31 min</span></span>
+          <h3>04D · Text: Desta goes shopping</h3>
+          <p>Desta goes shopping: food for a dinner with guests. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-04D.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-04Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 44 &middot; <span class="dur">48 min</span></span>
+          <h3>04 · Grammar</h3>
+          <p>Grammar for chapter 4: this and that, infinitive with å, dropped verbs, adjective patterns, and liten and annen. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-04Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 5 <span>(11 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-05K-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 45 &middot; <span class="dur">9 min</span></span>
+          <h3>05K · Vocabulary</h3>
+          <p>Vocabulary for chapter 5, text K: 19 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-05K-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05K.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 46 &middot; <span class="dur">22 min</span></span>
+          <h3>05K · Text: An old man</h3>
+          <p>An old man: a shopping trip in the past tense, and a friendly stranger. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-05K.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 47 &middot; <span class="dur">9 min</span></span>
+          <h3>05A · Vocabulary</h3>
+          <p>Vocabulary for chapter 5, text A: 19 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-05A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05A.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 48 &middot; <span class="dur">22 min</span></span>
+          <h3>05A · Text: Tourist in Trondheim</h3>
+          <p>Tourist in Trondheim: sights, directions, and helping tourists, in the past tense. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-05A.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05M-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 49 &middot; <span class="dur">19 min</span></span>
+          <h3>05M · Vocabulary</h3>
+          <p>Vocabulary for chapter 5, text M: 45 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-05M-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05M.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 50 &middot; <span class="dur">29 min</span></span>
+          <h3>05M · Text: E-mail home</h3>
+          <p>E-mail home: a cafe in Bakklandet, Norwegians, and lost bicycle lock. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-05M.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05P-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 51 &middot; <span class="dur">12 min</span></span>
+          <h3>05P · Vocabulary</h3>
+          <p>Vocabulary for chapter 5, text P: 25 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-05P-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05P.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 52 &middot; <span class="dur">31 min</span></span>
+          <h3>05P · Text: Nidarosdomen cathedral</h3>
+          <p>Nidarosdomen cathedral: history, years, and a day with Frank. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-05P.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05Y-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 53 &middot; <span class="dur">16 min</span></span>
+          <h3>05Y · Vocabulary</h3>
+          <p>Vocabulary for chapter 5, text Y: 38 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-05Y-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05Y.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 54 &middot; <span class="dur">31 min</span></span>
+          <h3>05Y · Text: Essay</h3>
+          <p>Essay: last weekend, in the past tense. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-05Y.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-05Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 55 &middot; <span class="dur">57 min</span></span>
+          <h3>05 · Grammar</h3>
+          <p>Grammar for chapter 5: the past tense, adjectives ending in el and en, looks like, time expressions, and many, some and much. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-05Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 6 <span>(10 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-06K-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 56 &middot; <span class="dur">12 min</span></span>
+          <h3>06K · Vocabulary</h3>
+          <p>Vocabulary for chapter 6, text K: 25 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-06K-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06K.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 57 &middot; <span class="dur">30 min</span></span>
+          <h3>06K · Text: Starting at Dragvoll</h3>
+          <p>Starting at Dragvoll: the present perfect, campus, and the student ID card. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-06K.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 58 &middot; <span class="dur">10 min</span></span>
+          <h3>06A · Vocabulary</h3>
+          <p>Vocabulary for chapter 6, text A: 20 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-06A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06A.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 59 &middot; <span class="dur">29 min</span></span>
+          <h3>06A · Text: Home from Gløshaugen</h3>
+          <p>Home from Gløshaugen: what have you done today? Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-06A.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06M-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 60 &middot; <span class="dur">13 min</span></span>
+          <h3>06M · Vocabulary</h3>
+          <p>Vocabulary for chapter 6, text M: 26 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-06M-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06M1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 61 &middot; <span class="dur">24 min</span></span>
+          <h3>06M · Text 1/2: The sports centre</h3>
+          <p>The sports centre: hobbies, membership cards, and the student society. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-06M1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06M2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 62 &middot; <span class="dur">18 min</span></span>
+          <h3>06M · Text 2/2: The sports centre</h3>
+          <p>The sports centre: hobbies, membership cards, and the student society. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-06M2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06P-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 63 &middot; <span class="dur">13 min</span></span>
+          <h3>06P · Vocabulary</h3>
+          <p>Vocabulary for chapter 6, text P: 29 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-06P-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06P.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 64 &middot; <span class="dur">31 min</span></span>
+          <h3>06P · Text: Norwegian class</h3>
+          <p>Norwegian class: how long, where from, and making friends. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-06P.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-06Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 65 &middot; <span class="dur">68 min</span></span>
+          <h3>06 · Grammar</h3>
+          <p>Grammar for chapter 6: the present perfect, irregular verbs, auxiliary verbs, the big car, and word order in main and subordinate clauses. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-06Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 7 <span>(10 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-07A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 66 &middot; <span class="dur">22 min</span></span>
+          <h3>07A · Vocabulary</h3>
+          <p>Vocabulary for chapter 7, text A: 51 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-07A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07A1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 67 &middot; <span class="dur">24 min</span></span>
+          <h3>07A · Text 1/2: Family</h3>
+          <p>Family: talking about relatives in a group. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-07A1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07A2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 68 &middot; <span class="dur">19 min</span></span>
+          <h3>07A · Text 2/2: Family</h3>
+          <p>Family: talking about relatives in a group. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-07A2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07B-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 69 &middot; <span class="dur">20 min</span></span>
+          <h3>07B · Vocabulary</h3>
+          <p>Vocabulary for chapter 7, text B: 48 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-07B-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07B1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 70 &middot; <span class="dur">25 min</span></span>
+          <h3>07B · Text 1/2: Spare time</h3>
+          <p>Spare time: hobbies, sports, and free time. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-07B1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07B2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 71 &middot; <span class="dur">27 min</span></span>
+          <h3>07B · Text 2/2: Spare time</h3>
+          <p>Spare time: hobbies, sports, and free time. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-07B2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07D-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 72 &middot; <span class="dur">14 min</span></span>
+          <h3>07D · Vocabulary</h3>
+          <p>Vocabulary for chapter 7, text D: 29 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-07D-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07D1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 73 &middot; <span class="dur">18 min</span></span>
+          <h3>07D · Text 1/2: Lunch break</h3>
+          <p>Lunch break: family, in-laws, and Easter plans. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-07D1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07D2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 74 &middot; <span class="dur">28 min</span></span>
+          <h3>07D · Text 2/2: Lunch break</h3>
+          <p>Lunch break: family, in-laws, and Easter plans. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-07D2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-07Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 75 &middot; <span class="dur">34 min</span></span>
+          <h3>07 · Grammar</h3>
+          <p>Grammar for chapter 7: possessives, the word som, and the two words for when. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-07Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 8 <span>(10 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-08A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 76 &middot; <span class="dur">24 min</span></span>
+          <h3>08A · Vocabulary</h3>
+          <p>Vocabulary for chapter 8, text A: 60 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-08A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08A1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 77 &middot; <span class="dur">25 min</span></span>
+          <h3>08A · Text 1/2: Trip to Oppdal</h3>
+          <p>Trip to Oppdal: weather, comparing, and a cabin. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-08A1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08A2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 78 &middot; <span class="dur">23 min</span></span>
+          <h3>08A · Text 2/2: Trip to Oppdal</h3>
+          <p>Trip to Oppdal: weather, comparing, and a cabin. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-08A2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08B-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 79 &middot; <span class="dur">20 min</span></span>
+          <h3>08B · Vocabulary</h3>
+          <p>Vocabulary for chapter 8, text B: 46 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-08B-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08B1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 80 &middot; <span class="dur">25 min</span></span>
+          <h3>08B · Text 1/2: Peter is ill</h3>
+          <p>Peter is ill: symptoms, calling the out-of-hours doctor, and medicine. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-08B1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08B2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 81 &middot; <span class="dur">22 min</span></span>
+          <h3>08B · Text 2/2: Peter is ill</h3>
+          <p>Peter is ill: symptoms, calling the out-of-hours doctor, and medicine. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-08B2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08Y-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 82 &middot; <span class="dur">21 min</span></span>
+          <h3>08Y · Vocabulary</h3>
+          <p>Vocabulary for chapter 8, text Y: 50 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-08Y-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08Y1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 83 &middot; <span class="dur">29 min</span></span>
+          <h3>08Y · Text 1/2: Cabin trip</h3>
+          <p>Cabin trip: packing, seasons, and ice fishing. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-08Y1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08Y2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 84 &middot; <span class="dur">23 min</span></span>
+          <h3>08Y · Text 2/2: Cabin trip</h3>
+          <p>Cabin trip: packing, seasons, and ice fishing. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-08Y2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-08Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 85 &middot; <span class="dur">61 min</span></span>
+          <h3>08 · Grammar</h3>
+          <p>Grammar for chapter 8: the reflexive possessive sin, comparing adjectives, and time prepositions. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-08Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 9 <span>(7 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-09A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 86 &middot; <span class="dur">15 min</span></span>
+          <h3>09A · Vocabulary</h3>
+          <p>Vocabulary for chapter 9, text A: 34 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-09A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-09A1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 87 &middot; <span class="dur">20 min</span></span>
+          <h3>09A · Text 1/2: The office</h3>
+          <p>The office: a busy day, a birthday cake, and an e-mail to a supervisor. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-09A1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-09A2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 88 &middot; <span class="dur">21 min</span></span>
+          <h3>09A · Text 2/2: The office</h3>
+          <p>The office: a busy day, a birthday cake, and an e-mail to a supervisor. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-09A2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-09B-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 89 &middot; <span class="dur">18 min</span></span>
+          <h3>09B · Vocabulary</h3>
+          <p>Vocabulary for chapter 9, text B: 42 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-09B-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-09B1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 90 &middot; <span class="dur">20 min</span></span>
+          <h3>09B · Text 1/2: Conference</h3>
+          <p>Conference: preparing a talk, travelling to London, and the hotel. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-09B1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-09B2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 91 &middot; <span class="dur">29 min</span></span>
+          <h3>09B · Text 2/2: Conference</h3>
+          <p>Conference: preparing a talk, travelling to London, and the hotel. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-09B2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-09Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 92 &middot; <span class="dur">52 min</span></span>
+          <h3>09 · Grammar</h3>
+          <p>Grammar for chapter 9: word order in main and subordinate clauses, because versus therefore, and short answers. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-09Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
+      <details class="chapter">
+        <summary>Chapter 10 <span>(7 episodes)</span></summary>
+        <div class="eps">
+      <article class="ep">
+        <img src="images/now1-10A-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 93 &middot; <span class="dur">21 min</span></span>
+          <h3>10A · Vocabulary</h3>
+          <p>Vocabulary for chapter 10, text A: 50 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-10A-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-10A1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 94 &middot; <span class="dur">29 min</span></span>
+          <h3>10A · Text 1/2: A trip to Oslo</h3>
+          <p>A trip to Oslo: sights, a theatre, and museums. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-10A1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-10A2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 95 &middot; <span class="dur">21 min</span></span>
+          <h3>10A · Text 2/2: A trip to Oslo</h3>
+          <p>A trip to Oslo: sights, a theatre, and museums. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-10A2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-10B-vocab.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 96 &middot; <span class="dur">24 min</span></span>
+          <h3>10B · Vocabulary</h3>
+          <p>Vocabulary for chapter 10, text B: 56 words. Listen and repeat them before you start the text lesson.</p>
+          <audio controls preload="none" src="episodes/now1-10B-vocab.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-10B1.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 97 &middot; <span class="dur">26 min</span></span>
+          <h3>10B · Text 1/2: Christmas in Norway</h3>
+          <p>Christmas in Norway: church, dinner, traditions, and a phone call home. Part 1 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-10B1.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-10B2.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 98 &middot; <span class="dur">29 min</span></span>
+          <h3>10B · Text 2/2: Christmas in Norway</h3>
+          <p>Christmas in Norway: church, dinner, traditions, and a phone call home. Part 2 of 2. Listen, repeat and speak out loud. Do the vocabulary episode first.</p>
+          <audio controls preload="none" src="episodes/now1-10B2.mp3"></audio>
+        </div>
+      </article>
+      <article class="ep">
+        <img src="images/now1-10Grammar.jpg" alt="" loading="lazy">
+        <div class="body">
+          <span class="num">Episode 99 &middot; <span class="dur">49 min</span></span>
+          <h3>10 · Grammar</h3>
+          <p>Grammar for chapter 10: the four meanings of så, prepositions of place, and comma rules. Listen and repeat the examples out loud.</p>
+          <audio controls preload="none" src="episodes/now1-10Grammar.mp3"></audio>
+        </div>
+      </article>
+        </div>
+      </details>
     </div>
   </section>
 
